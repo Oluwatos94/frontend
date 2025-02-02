@@ -1,2 +1,6 @@
 # frontend
-dapps/web applications for all projects built
+Cairo Academy is dedicated to empowering developers to master the Cairo programming language and build on the StarkNet platform. We provide high-quality educational resources and practical learning experiences, focusing on Cairo smart contracts and program development. Our mission is to lower the barrier to entry for developers wanting to contribute to the StarkNet ecosystem.
+
+We offer a variety of learning materials, including interactive tutorials, comprehensive documentation, and open-source project examples. Our resources cater to developers of all skill levels, from beginners grasping the fundamentals of Cairo syntax to advanced developers exploring complex contract design patterns and performance optimization. We cover key concepts such as StarkNet architecture, security best practices, and dApp development, ensuring developers have the knowledge and skills to build robust and secure applications.
+
+Cairo Academy is committed to fostering a strong and supportive community. We encourage collaboration, knowledge sharing, and active participation through forums and community events. We believe that by providing accessible education and fostering a collaborative environment, we can empower the next generation of StarkNet developers and contribute to the growth of the decentralized web. Our resources are continuously updated to reflect the latest advancements in StarkNet and Cairo, ensuring developers have access to the most current information and best practices.
