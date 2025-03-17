@@ -1,24 +1,12 @@
-## Contributors
+# Cairo Academy Frontend Templates
 
-We are grateful for the contributions of the following individuals who have helped improve and expand Cairo Academy.
+This repository provides a collection of ready-to-use frontend templates for building web applications that interact with Starknet using Cairo smart contracts. It serves as a practical resource for developers and a platform to showcase innovative UI ideas for decentralized applications on Starknet.
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        
-* **[Faith M. Roberts](https://github.com/faytey)**
-  <br/>
-    [![Faith's Image](https://avatars.githubusercontent.com/u/40033608?v=4&s=100)](https://github.com/faytey)
-      </td>
+**Key Features:**
 
-<td align="center" valign="top">
-        
-* **[Mayowa Obisesan](https://github.com/MayowaObisesan)**
-  <br/>
-    [![Mayowa's Image](https://avatars.githubusercontent.com/u/91972571?v=4&s=100)](https://github.com/MayowaObisesan)
-      </td>
-    </tr>
-  </tbody>
-</table>
+* **Jumpstart Development:** Use pre-built templates to quickly create frontend interfaces for Starknet applications.
+* **Explore UI Ideas:** Discover and contribute new UI patterns and designs for decentralized experiences.
+* **Modern Technologies:** Templates are built with popular frameworks like React, Vue, Next, and Svelte.
+* **Starknet Integration:** Seamlessly connect to Starknet using Starknet.js.
 
+This repository aims to accelerate development and foster creativity in the Starknet ecosystem.
